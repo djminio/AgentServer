@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/rajasvn/DragonRaja/!svn/ver/138/AgentServer
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/StdAfx.h
+END
+RMDefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RMDefine.h
+END
+define.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/define.h
+END
+AgentServer.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/AgentServer.sln
+END
+RMProc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RMProc.cpp
+END
+ServerTable2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/ServerTable2.h
+END
+LocalizingMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/LocalizingMgr.h
+END
+CUseMoney.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/CUseMoney.h
+END
+ServerMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/ServerMonitor.cpp
+END
+servertable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/servertable.cpp
+END
+RecvMsgFromServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RecvMsgFromServer.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/main.cpp
+END
+struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/struct.cpp
+END
+dr_agent_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/dr_agent_defines.h
+END
+ServerIdentity.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/ServerIdentity.h
+END
+packed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/packed.cpp
+END
+DrServerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/DrServerManager.cpp
+END
+monitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/monitor.cpp
+END
+mylog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/mylog.cpp
+END
+Struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/Struct.h
+END
+AgentServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/AgentServer.h
+END
+usertable.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/usertable.h
+END
+dr_agent_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/dr_agent_structures.h
+END
+RecvMsgFromUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RecvMsgFromUser.h
+END
+ServerTable2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/ServerTable2.cpp
+END
+LocalizingMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/LocalizingMgr.cpp
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/typedef.h
+END
+net_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/net_define.h
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rajasvn/DragonRaja/!svn/ver/129/AgentServer/protocol.h
+END
+network_guid.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/network_guid.h
+END
+AgentServer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/rajasvn/DragonRaja/!svn/ver/138/AgentServer/AgentServer.vcproj
+END
+inetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/inetwork.h
+END
+CUseMoney.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/CUseMoney.cpp
+END
+ServerMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/ServerMonitor.h
+END
+servertable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/servertable.h
+END
+AgentServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/AgentServer.cpp
+END
+RecvMsgFromServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RecvMsgFromServer.h
+END
+usertable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/usertable.cpp
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/main.h
+END
+RecvMsgFromUser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/RecvMsgFromUser.cpp
+END
+monitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/monitor.h
+END
+DrServerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/DrServerManager.h
+END
+mylog.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/mylog.h
+END
+packed.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rajasvn/DragonRaja/!svn/ver/4/AgentServer/packed.h
+END
